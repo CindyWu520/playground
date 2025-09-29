@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Arrays;
 import java.util.Objects;
 
+/**
+ * https://leetcode.com/problems/3sum/
+ */
 public class ThreeSum {
 
     public List<List<Integer>> getThreeSum(int[] nums){

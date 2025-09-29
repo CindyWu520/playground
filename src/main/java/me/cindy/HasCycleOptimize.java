@@ -1,5 +1,8 @@
 package me.cindy;
 
+/**
+ * https://leetcode.com/problems/linked-list-cycle/
+ */
 public class HasCycleOptimize {
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) return false;

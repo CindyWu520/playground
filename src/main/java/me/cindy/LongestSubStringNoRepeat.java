@@ -1,10 +1,8 @@
 package me.cindy;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-
+/**
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ */
 public class LongestSubStringNoRepeat {
     public int lengthOfLongestSubString(String s) {
         if (s.isEmpty()) return 0;

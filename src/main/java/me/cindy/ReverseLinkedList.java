@@ -1,8 +1,10 @@
 package me.cindy;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
+
+/**
+ * https://leetcode.com/problems/reverse-linked-list/
+ */
 
 public class ReverseLinkedList {
     public ListNode reverseList (ListNode head) {

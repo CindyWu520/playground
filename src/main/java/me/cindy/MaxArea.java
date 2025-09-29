@@ -1,7 +1,8 @@
 package me.cindy;
 
-import java.util.HashMap;
-
+/**
+ * https://leetcode.com/problems/container-with-most-water/
+ */
 public class MaxArea {
     public int maxArea(int[] height) {
         int maxArea = 0;
